@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am a Brazilian programmer.<br>Currently I am studying in Montréal to improve my programming skills and<br>have new life experiences. I love gaming and pixel art in general!
+Hi! I am a Brazilian programmer.<br>Currently I'm studying in Montréal to improve my programming skills and<br>have new life experiences. I love gaming and pixel art in general!
 
 
 ## 🌐 Socials:
